@@ -1,0 +1,4264 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="float" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Iran" />
+    <node id="Ayatollah Ruhollah Khomeini" />
+    <node id="Hassan Rouhani" />
+    <node id="Supreme Council" />
+    <node id="Michael D'andrea" />
+    <node id="Us Central Intelligence Agency" />
+    <node id="CIA" />
+    <node id="Wall Street Journal" />
+    <node id="Syria" />
+    <node id="Narendra Modi" />
+    <node id="Paris" />
+    <node id="Emmanuel Macron" />
+    <node id="Kabul" />
+    <node id="Guilds" />
+    <node id="Fazel" />
+    <node id="MA" />
+    <node id="Saudi Arabia" />
+    <node id="Turkey" />
+    <node id="Fethullah Gulen" />
+    <node id="Republic" />
+    <node id="Network" />
+    <node id="Tehran" />
+    <node id="Ayatollah Khomeini" />
+    <node id="Eshaq Jahangiri" />
+    <node id="Nangarhar" />
+    <node id="Ataollah Khogiani" />
+    <node id="Muhammad Ashraf Ghani" />
+    <node id="North Atlantic Treaty Organization" />
+    <node id="Jens Stoltenberg" />
+    <node id="Rahmatullah Nabil" />
+    <node id="Anas Haqqani" />
+    <node id="Jalaluddin Haqqani" />
+    <node id="Jalalabad" />
+    <node id="Pashto" />
+    <node id="Afghanistan" />
+    <node id="West" />
+    <node id="ISIL" />
+    <node id="Hamza" />
+    <node id="Osama Bin Laden" />
+    <node id="Al Qaida" />
+    <node id="Orlando" />
+    <node id="Florida" />
+    <node id="Omar Mateen" />
+    <node id="Muhammad" />
+    <node id="Garland" />
+    <node id="Texas" />
+    <node id="Middle East" />
+    <node id="London" />
+    <node id="Ariana Grande" />
+    <node id="Manchester" />
+    <node id="England" />
+    <node id="Westminster" />
+    <node id="Theresa May" />
+    <node id="Conservative Party" />
+    <node id="Labour Party" />
+    <node id="Madrid" />
+    <node id="Spain" />
+    <node id="Jose Aznar" />
+    <node id="Iraq" />
+    <node id="United Kingdom" />
+    <node id="George W Bush" />
+    <node id="London Ambulance Service" />
+    <node id="Bridge" />
+    <node id="Mark Rowley" />
+    <node id="British Transport Police" />
+    <node id="Borough Market" />
+    <node id="Metropolitan Police Service" />
+    <node id="Sadiq Khan" />
+    <node id="Metropolitan Police" />
+    <node id="White House" />
+    <node id="Sean Spicer" />
+    <node id="U K" />
+    <node id="Mark Roberterts" />
+    <node id="Thames" />
+    <node id="Elliot" />
+    <node id="Jack Applebee" />
+    <node id="Katzenjammers" />
+    <node id="Paul Connell" />
+    <node id="Us Department Of Homeland Security" />
+    <node id="Vauxhall" />
+    <node id="Bridge Tube" />
+    <node id="Arena" />
+    <node id="SUV" />
+    <node id="Khalid Masood" />
+    <node id="Midlands" />
+    <node id="Houses Of Parliament" />
+    <node id="El Pastor" />
+    <node id="Brad Meyers" />
+    <node id="Metropolitan Police Counter Terrorism Command" />
+    <node id="Raqqa" />
+    <node id="Us Backed" />
+    <node id="Cihan Sheikh Ehmed" />
+    <node id="SDF" />
+    <node id="Syrian Observatory For Human Rights" />
+    <node id="Euphrates" />
+    <node id="Mansoura" />
+    <node id="Mosul" />
+    <node id="Aamaq" />
+    <node id="United Nations" />
+    <node id="Unhcr" />
+    <node id="Stephen Townsend" />
+    <node id="Ocha" />
+    <node id="Spot Development" />
+    <edge source="Iran" target="Ayatollah Ruhollah Khomeini">
+      <data key="d0">1.15</data>
+    </edge>
+    <edge source="Iran" target="Michael D'andrea">
+      <data key="d0">0.2923076923076923</data>
+    </edge>
+    <edge source="Iran" target="Us Central Intelligence Agency">
+      <data key="d0">0.8738461538461538</data>
+    </edge>
+    <edge source="Iran" target="CIA">
+      <data key="d0">0.34442307692307694</data>
+    </edge>
+    <edge source="Iran" target="Wall Street Journal">
+      <data key="d0">0.8375</data>
+    </edge>
+    <edge source="Iran" target="Kabul">
+      <data key="d0">0.57</data>
+    </edge>
+    <edge source="Iran" target="Guilds">
+      <data key="d0">0.57</data>
+    </edge>
+    <edge source="Iran" target="Fazel">
+      <data key="d0">0.57</data>
+    </edge>
+    <edge source="Iran" target="Republic">
+      <data key="d0">0.57</data>
+    </edge>
+    <edge source="Iran" target="Network">
+      <data key="d0">0.57</data>
+    </edge>
+    <edge source="Iran" target="Tehran">
+      <data key="d0">0.57</data>
+    </edge>
+    <edge source="Iran" target="Emmanuel Macron">
+      <data key="d0">0.1</data>
+    </edge>
+    <edge source="Iran" target="MA">
+      <data key="d0">0.06999999999999999</data>
+    </edge>
+    <edge source="Iran" target="Syria">
+      <data key="d0">0.06999999999999999</data>
+    </edge>
+    <edge source="Iran" target="Hassan Rouhani">
+      <data key="d0">0.1</data>
+    </edge>
+    <edge source="Iran" target="Ayatollah Khomeini">
+      <data key="d0">0.14</data>
+    </edge>
+    <edge source="Iran" target="Turkey">
+      <data key="d0">0.06999999999999999</data>
+    </edge>
+    <edge source="Iran" target="Fethullah Gulen">
+      <data key="d0">0.1</data>
+    </edge>
+    <edge source="Iran" target="Supreme Council">
+      <data key="d0">0.1</data>
+    </edge>
+    <edge source="Iran" target="Paris">
+      <data key="d0">0.06999999999999999</data>
+    </edge>
+    <edge source="Iran" target="Saudi Arabia">
+      <data key="d0">0.1</data>
+    </edge>
+    <edge source="Iran" target="Eshaq Jahangiri">
+      <data key="d0">0.1</data>
+    </edge>
+    <edge source="Iran" target="Narendra Modi">
+      <data key="d0">0.1</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Emmanuel Macron">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="MA">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Syria">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Tehran">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Wall Street Journal">
+      <data key="d0">0.18</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Hassan Rouhani">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Michael D'andrea">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Ayatollah Khomeini">
+      <data key="d0">0.16999999999999998</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Turkey">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Fazel">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Kabul">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="CIA">
+      <data key="d0">0.11</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Guilds">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Fethullah Gulen">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Supreme Council">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Paris">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Saudi Arabia">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Us Central Intelligence Agency">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Network">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Eshaq Jahangiri">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Republic">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Ayatollah Ruhollah Khomeini" target="Narendra Modi">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Supreme Council">
+      <data key="d0">1.08</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Emmanuel Macron">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="MA">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Syria">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Tehran">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Wall Street Journal">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Michael D'andrea">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Ayatollah Khomeini">
+      <data key="d0">0.12</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Turkey">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Fazel">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Kabul">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="CIA">
+      <data key="d0">0.06</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Guilds">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Fethullah Gulen">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Paris">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Saudi Arabia">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Us Central Intelligence Agency">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Network">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Eshaq Jahangiri">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Republic">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Hassan Rouhani" target="Narendra Modi">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Supreme Council" target="Emmanuel Macron">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Supreme Council" target="MA">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Supreme Council" target="Syria">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Supreme Council" target="Tehran">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Supreme Council" target="Wall Street Journal">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Supreme Council" target="Michael D'andrea">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Supreme Council" target="Ayatollah Khomeini">
+      <data key="d0">0.12</data>
+    </edge>
+    <edge source="Supreme Council" target="Turkey">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Supreme Council" target="Fazel">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Supreme Council" target="Kabul">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Supreme Council" target="CIA">
+      <data key="d0">0.06</data>
+    </edge>
+    <edge source="Supreme Council" target="Guilds">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Supreme Council" target="Fethullah Gulen">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Supreme Council" target="Paris">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Supreme Council" target="Saudi Arabia">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Supreme Council" target="Us Central Intelligence Agency">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Supreme Council" target="Network">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Supreme Council" target="Eshaq Jahangiri">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Supreme Council" target="Republic">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Supreme Council" target="Narendra Modi">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Us Central Intelligence Agency">
+      <data key="d0">0.9692307692307693</data>
+    </edge>
+    <edge source="Michael D'andrea" target="CIA">
+      <data key="d0">0.25230769230769234</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Emmanuel Macron">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Michael D'andrea" target="MA">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Syria">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Tehran">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Wall Street Journal">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Ayatollah Khomeini">
+      <data key="d0">0.12</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Turkey">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Fazel">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Kabul">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Guilds">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Fethullah Gulen">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Paris">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Saudi Arabia">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Network">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Eshaq Jahangiri">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Republic">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Michael D'andrea" target="Narendra Modi">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="CIA">
+      <data key="d0">0.8338461538461539</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Emmanuel Macron">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="MA">
+      <data key="d0">0.17</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Syria">
+      <data key="d0">0.17</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Tehran">
+      <data key="d0">0.17</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Wall Street Journal">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Ayatollah Khomeini">
+      <data key="d0">0.24</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Turkey">
+      <data key="d0">0.17</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Fazel">
+      <data key="d0">0.17</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Kabul">
+      <data key="d0">0.17</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Guilds">
+      <data key="d0">0.17</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Fethullah Gulen">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Paris">
+      <data key="d0">0.17</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Saudi Arabia">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Network">
+      <data key="d0">0.17</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Eshaq Jahangiri">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Republic">
+      <data key="d0">0.17</data>
+    </edge>
+    <edge source="Us Central Intelligence Agency" target="Narendra Modi">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="CIA" target="Wall Street Journal">
+      <data key="d0">0.735</data>
+    </edge>
+    <edge source="CIA" target="Emmanuel Macron">
+      <data key="d0">0.06</data>
+    </edge>
+    <edge source="CIA" target="MA">
+      <data key="d0">0.03</data>
+    </edge>
+    <edge source="CIA" target="Syria">
+      <data key="d0">0.03</data>
+    </edge>
+    <edge source="CIA" target="Tehran">
+      <data key="d0">0.03</data>
+    </edge>
+    <edge source="CIA" target="Ayatollah Khomeini">
+      <data key="d0">0.1</data>
+    </edge>
+    <edge source="CIA" target="Turkey">
+      <data key="d0">0.03</data>
+    </edge>
+    <edge source="CIA" target="Fazel">
+      <data key="d0">0.03</data>
+    </edge>
+    <edge source="CIA" target="Kabul">
+      <data key="d0">0.03</data>
+    </edge>
+    <edge source="CIA" target="Guilds">
+      <data key="d0">0.03</data>
+    </edge>
+    <edge source="CIA" target="Fethullah Gulen">
+      <data key="d0">0.06</data>
+    </edge>
+    <edge source="CIA" target="Paris">
+      <data key="d0">0.03</data>
+    </edge>
+    <edge source="CIA" target="Saudi Arabia">
+      <data key="d0">0.06</data>
+    </edge>
+    <edge source="CIA" target="Network">
+      <data key="d0">0.03</data>
+    </edge>
+    <edge source="CIA" target="Eshaq Jahangiri">
+      <data key="d0">0.06</data>
+    </edge>
+    <edge source="CIA" target="Republic">
+      <data key="d0">0.03</data>
+    </edge>
+    <edge source="CIA" target="Narendra Modi">
+      <data key="d0">0.06</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Emmanuel Macron">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Wall Street Journal" target="MA">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Syria">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Tehran">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Ayatollah Khomeini">
+      <data key="d0">0.16999999999999998</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Turkey">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Fazel">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Kabul">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Guilds">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Fethullah Gulen">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Paris">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Saudi Arabia">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Network">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Eshaq Jahangiri">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Republic">
+      <data key="d0">0.09999999999999999</data>
+    </edge>
+    <edge source="Wall Street Journal" target="Narendra Modi">
+      <data key="d0">0.13</data>
+    </edge>
+    <edge source="Syria" target="Narendra Modi">
+      <data key="d0">0.55</data>
+    </edge>
+    <edge source="Syria" target="Paris">
+      <data key="d0">0.22</data>
+    </edge>
+    <edge source="Syria" target="Emmanuel Macron">
+      <data key="d0">0.55</data>
+    </edge>
+    <edge source="Syria" target="MA">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Syria" target="Tehran">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Syria" target="Ayatollah Khomeini">
+      <data key="d0">0.09</data>
+    </edge>
+    <edge source="Syria" target="Turkey">
+      <data key="d0">0.07405405405405405</data>
+    </edge>
+    <edge source="Syria" target="Fazel">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Syria" target="Kabul">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Syria" target="Guilds">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Syria" target="Fethullah Gulen">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Syria" target="Saudi Arabia">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Syria" target="Network">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Syria" target="Eshaq Jahangiri">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Syria" target="Republic">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Syria" target="Raqqa">
+      <data key="d0">2.153153153153153</data>
+    </edge>
+    <edge source="Syria" target="Us Backed">
+      <data key="d0">0.9504504504504504</data>
+    </edge>
+    <edge source="Syria" target="SDF">
+      <data key="d0">1.0990990990990992</data>
+    </edge>
+    <edge source="Syria" target="Iraq">
+      <data key="d0">1.072072072072072</data>
+    </edge>
+    <edge source="Syria" target="Spot Development">
+      <data key="d0">0.08108108108108109</data>
+    </edge>
+    <edge source="Syria" target="Euphrates">
+      <data key="d0">0.06306306306306306</data>
+    </edge>
+    <edge source="Syria" target="United Nations">
+      <data key="d0">0.11711711711711711</data>
+    </edge>
+    <edge source="Syria" target="Stephen Townsend">
+      <data key="d0">0.08108108108108109</data>
+    </edge>
+    <edge source="Syria" target="Mosul">
+      <data key="d0">0.07207207207207207</data>
+    </edge>
+    <edge source="Syria" target="Unhcr">
+      <data key="d0">0.05405405405405405</data>
+    </edge>
+    <edge source="Syria" target="Mansoura">
+      <data key="d0">0.06306306306306306</data>
+    </edge>
+    <edge source="Syria" target="Syrian Observatory For Human Rights">
+      <data key="d0">0.2702702702702703</data>
+    </edge>
+    <edge source="Syria" target="Aamaq">
+      <data key="d0">0.05405405405405405</data>
+    </edge>
+    <edge source="Syria" target="Ocha">
+      <data key="d0">0.05405405405405405</data>
+    </edge>
+    <edge source="Syria" target="Cihan Sheikh Ehmed">
+      <data key="d0">0.12612612612612611</data>
+    </edge>
+    <edge source="Narendra Modi" target="Paris">
+      <data key="d0">0.55</data>
+    </edge>
+    <edge source="Narendra Modi" target="Emmanuel Macron">
+      <data key="d0">0.88</data>
+    </edge>
+    <edge source="Narendra Modi" target="MA">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Narendra Modi" target="Tehran">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Narendra Modi" target="Ayatollah Khomeini">
+      <data key="d0">0.12</data>
+    </edge>
+    <edge source="Narendra Modi" target="Turkey">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Narendra Modi" target="Fazel">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Narendra Modi" target="Kabul">
+      <data key="d0">0.13450704225352111</data>
+    </edge>
+    <edge source="Narendra Modi" target="Guilds">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Narendra Modi" target="Fethullah Gulen">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Narendra Modi" target="Saudi Arabia">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Narendra Modi" target="Network">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Narendra Modi" target="Eshaq Jahangiri">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Narendra Modi" target="Republic">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Narendra Modi" target="North Atlantic Treaty Organization">
+      <data key="d0">1.1150234741784038</data>
+    </edge>
+    <edge source="Narendra Modi" target="Jens Stoltenberg">
+      <data key="d0">0.4460093896713615</data>
+    </edge>
+    <edge source="Narendra Modi" target="Muhammad Ashraf Ghani">
+      <data key="d0">0.18309859154929578</data>
+    </edge>
+    <edge source="Narendra Modi" target="Ataollah Khogiani">
+      <data key="d0">0.11267605633802817</data>
+    </edge>
+    <edge source="Narendra Modi" target="Jalaluddin Haqqani">
+      <data key="d0">0.16901408450704225</data>
+    </edge>
+    <edge source="Narendra Modi" target="Jalalabad">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Narendra Modi" target="Afghanistan">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Narendra Modi" target="Pashto">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Narendra Modi" target="Nangarhar">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Narendra Modi" target="Anas Haqqani">
+      <data key="d0">0.11267605633802817</data>
+    </edge>
+    <edge source="Narendra Modi" target="Rahmatullah Nabil">
+      <data key="d0">0.16901408450704225</data>
+    </edge>
+    <edge source="Paris" target="Emmanuel Macron">
+      <data key="d0">0.55</data>
+    </edge>
+    <edge source="Paris" target="MA">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Paris" target="Tehran">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Paris" target="Ayatollah Khomeini">
+      <data key="d0">0.09</data>
+    </edge>
+    <edge source="Paris" target="Turkey">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Paris" target="Fazel">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Paris" target="Kabul">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Paris" target="Guilds">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Paris" target="Fethullah Gulen">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Paris" target="Saudi Arabia">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Paris" target="Network">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Paris" target="Eshaq Jahangiri">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Paris" target="Republic">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Paris" target="ISIL">
+      <data key="d0">1.0701754385964912</data>
+    </edge>
+    <edge source="Paris" target="London">
+      <data key="d0">0.06140350877192982</data>
+    </edge>
+    <edge source="Paris" target="Theresa May">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Paris" target="Al Qaida">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Paris" target="Manchester">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Paris" target="Conservative Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Paris" target="United Kingdom">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Paris" target="Labour Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Paris" target="Madrid">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Paris" target="Ariana Grande">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Paris" target="Orlando">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Paris" target="Osama Bin Laden">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Paris" target="Westminster">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Paris" target="Muhammad">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Paris" target="England">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Paris" target="Florida">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Paris" target="Iraq">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Paris" target="Jose Aznar">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Paris" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Paris" target="West">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Paris" target="Omar Mateen">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Paris" target="Spain">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Paris" target="Garland">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Paris" target="Hamza">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Paris" target="Texas">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Paris" target="Middle East">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="MA">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Tehran">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Ayatollah Khomeini">
+      <data key="d0">0.12</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Turkey">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Fazel">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Kabul">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Guilds">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Fethullah Gulen">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Saudi Arabia">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Network">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Eshaq Jahangiri">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Emmanuel Macron" target="Republic">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Kabul" target="Guilds">
+      <data key="d0">0.52</data>
+    </edge>
+    <edge source="Kabul" target="Fazel">
+      <data key="d0">0.52</data>
+    </edge>
+    <edge source="Kabul" target="MA">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Kabul" target="Tehran">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Kabul" target="Ayatollah Khomeini">
+      <data key="d0">0.09</data>
+    </edge>
+    <edge source="Kabul" target="Turkey">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Kabul" target="Fethullah Gulen">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Kabul" target="Saudi Arabia">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Kabul" target="Network">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Kabul" target="Eshaq Jahangiri">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Kabul" target="Republic">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Kabul" target="Muhammad Ashraf Ghani">
+      <data key="d0">1.1549295774647887</data>
+    </edge>
+    <edge source="Kabul" target="Jens Stoltenberg">
+      <data key="d0">0.08450704225352113</data>
+    </edge>
+    <edge source="Kabul" target="Ataollah Khogiani">
+      <data key="d0">0.08450704225352113</data>
+    </edge>
+    <edge source="Kabul" target="Jalaluddin Haqqani">
+      <data key="d0">0.14084507042253522</data>
+    </edge>
+    <edge source="Kabul" target="Jalalabad">
+      <data key="d0">0.04225352112676056</data>
+    </edge>
+    <edge source="Kabul" target="Afghanistan">
+      <data key="d0">0.04225352112676056</data>
+    </edge>
+    <edge source="Kabul" target="North Atlantic Treaty Organization">
+      <data key="d0">0.2535211267605634</data>
+    </edge>
+    <edge source="Kabul" target="Pashto">
+      <data key="d0">0.04225352112676056</data>
+    </edge>
+    <edge source="Kabul" target="Nangarhar">
+      <data key="d0">0.04225352112676056</data>
+    </edge>
+    <edge source="Kabul" target="Anas Haqqani">
+      <data key="d0">0.08450704225352113</data>
+    </edge>
+    <edge source="Kabul" target="Rahmatullah Nabil">
+      <data key="d0">0.14084507042253522</data>
+    </edge>
+    <edge source="Guilds" target="Fazel">
+      <data key="d0">0.52</data>
+    </edge>
+    <edge source="Guilds" target="MA">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Guilds" target="Tehran">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Guilds" target="Ayatollah Khomeini">
+      <data key="d0">0.09</data>
+    </edge>
+    <edge source="Guilds" target="Turkey">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Guilds" target="Fethullah Gulen">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Guilds" target="Saudi Arabia">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Guilds" target="Network">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Guilds" target="Eshaq Jahangiri">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Guilds" target="Republic">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Fazel" target="MA">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Fazel" target="Tehran">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Fazel" target="Ayatollah Khomeini">
+      <data key="d0">0.09</data>
+    </edge>
+    <edge source="Fazel" target="Turkey">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Fazel" target="Fethullah Gulen">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Fazel" target="Saudi Arabia">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Fazel" target="Network">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Fazel" target="Eshaq Jahangiri">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Fazel" target="Republic">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="MA" target="Saudi Arabia">
+      <data key="d0">0.55</data>
+    </edge>
+    <edge source="MA" target="Turkey">
+      <data key="d0">0.22</data>
+    </edge>
+    <edge source="MA" target="Fethullah Gulen">
+      <data key="d0">0.55</data>
+    </edge>
+    <edge source="MA" target="Tehran">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="MA" target="Ayatollah Khomeini">
+      <data key="d0">0.09</data>
+    </edge>
+    <edge source="MA" target="Network">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="MA" target="Eshaq Jahangiri">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="MA" target="Republic">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Saudi Arabia" target="Turkey">
+      <data key="d0">0.55</data>
+    </edge>
+    <edge source="Saudi Arabia" target="Fethullah Gulen">
+      <data key="d0">0.88</data>
+    </edge>
+    <edge source="Saudi Arabia" target="Tehran">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Saudi Arabia" target="Ayatollah Khomeini">
+      <data key="d0">0.12</data>
+    </edge>
+    <edge source="Saudi Arabia" target="Network">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Saudi Arabia" target="Eshaq Jahangiri">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Saudi Arabia" target="Republic">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Turkey" target="Fethullah Gulen">
+      <data key="d0">0.55</data>
+    </edge>
+    <edge source="Turkey" target="Tehran">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Turkey" target="Ayatollah Khomeini">
+      <data key="d0">0.09</data>
+    </edge>
+    <edge source="Turkey" target="Network">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Turkey" target="Eshaq Jahangiri">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Turkey" target="Republic">
+      <data key="d0">0.02</data>
+    </edge>
+    <edge source="Turkey" target="Us Backed">
+      <data key="d0">0.08108108108108109</data>
+    </edge>
+    <edge source="Turkey" target="Spot Development">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Turkey" target="Euphrates">
+      <data key="d0">0.02702702702702703</data>
+    </edge>
+    <edge source="Turkey" target="United Nations">
+      <data key="d0">0.08108108108108109</data>
+    </edge>
+    <edge source="Turkey" target="Stephen Townsend">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Turkey" target="SDF">
+      <data key="d0">0.06306306306306307</data>
+    </edge>
+    <edge source="Turkey" target="Mosul">
+      <data key="d0">0.036036036036036036</data>
+    </edge>
+    <edge source="Turkey" target="Unhcr">
+      <data key="d0">0.018018018018018018</data>
+    </edge>
+    <edge source="Turkey" target="Mansoura">
+      <data key="d0">0.02702702702702703</data>
+    </edge>
+    <edge source="Turkey" target="Syrian Observatory For Human Rights">
+      <data key="d0">0.23423423423423423</data>
+    </edge>
+    <edge source="Turkey" target="Iraq">
+      <data key="d0">0.036036036036036036</data>
+    </edge>
+    <edge source="Turkey" target="Aamaq">
+      <data key="d0">0.018018018018018018</data>
+    </edge>
+    <edge source="Turkey" target="Raqqa">
+      <data key="d0">0.11711711711711713</data>
+    </edge>
+    <edge source="Turkey" target="Ocha">
+      <data key="d0">0.018018018018018018</data>
+    </edge>
+    <edge source="Turkey" target="Cihan Sheikh Ehmed">
+      <data key="d0">0.0900900900900901</data>
+    </edge>
+    <edge source="Fethullah Gulen" target="Tehran">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Fethullah Gulen" target="Ayatollah Khomeini">
+      <data key="d0">0.12</data>
+    </edge>
+    <edge source="Fethullah Gulen" target="Network">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Fethullah Gulen" target="Eshaq Jahangiri">
+      <data key="d0">0.08</data>
+    </edge>
+    <edge source="Fethullah Gulen" target="Republic">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Republic" target="Network">
+      <data key="d0">0.52</data>
+    </edge>
+    <edge source="Republic" target="Tehran">
+      <data key="d0">0.52</data>
+    </edge>
+    <edge source="Republic" target="Ayatollah Khomeini">
+      <data key="d0">0.09</data>
+    </edge>
+    <edge source="Republic" target="Eshaq Jahangiri">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Network" target="Tehran">
+      <data key="d0">0.52</data>
+    </edge>
+    <edge source="Network" target="Ayatollah Khomeini">
+      <data key="d0">0.09</data>
+    </edge>
+    <edge source="Network" target="Eshaq Jahangiri">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Tehran" target="Ayatollah Khomeini">
+      <data key="d0">0.09</data>
+    </edge>
+    <edge source="Tehran" target="Eshaq Jahangiri">
+      <data key="d0">0.05</data>
+    </edge>
+    <edge source="Ayatollah Khomeini" target="Eshaq Jahangiri">
+      <data key="d0">0.12</data>
+    </edge>
+    <edge source="Nangarhar" target="Ataollah Khogiani">
+      <data key="d0">1.0704225352112675</data>
+    </edge>
+    <edge source="Nangarhar" target="Jens Stoltenberg">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Nangarhar" target="Muhammad Ashraf Ghani">
+      <data key="d0">0.14084507042253522</data>
+    </edge>
+    <edge source="Nangarhar" target="Jalaluddin Haqqani">
+      <data key="d0">0.1267605633802817</data>
+    </edge>
+    <edge source="Nangarhar" target="Jalalabad">
+      <data key="d0">0.028169014084507043</data>
+    </edge>
+    <edge source="Nangarhar" target="Afghanistan">
+      <data key="d0">0.028169014084507043</data>
+    </edge>
+    <edge source="Nangarhar" target="North Atlantic Treaty Organization">
+      <data key="d0">0.23943661971830987</data>
+    </edge>
+    <edge source="Nangarhar" target="Pashto">
+      <data key="d0">0.028169014084507043</data>
+    </edge>
+    <edge source="Nangarhar" target="Anas Haqqani">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Nangarhar" target="Rahmatullah Nabil">
+      <data key="d0">0.1267605633802817</data>
+    </edge>
+    <edge source="Ataollah Khogiani" target="Jens Stoltenberg">
+      <data key="d0">0.11267605633802817</data>
+    </edge>
+    <edge source="Ataollah Khogiani" target="Muhammad Ashraf Ghani">
+      <data key="d0">0.18309859154929578</data>
+    </edge>
+    <edge source="Ataollah Khogiani" target="Jalaluddin Haqqani">
+      <data key="d0">0.16901408450704225</data>
+    </edge>
+    <edge source="Ataollah Khogiani" target="Jalalabad">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Ataollah Khogiani" target="Afghanistan">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Ataollah Khogiani" target="North Atlantic Treaty Organization">
+      <data key="d0">0.28169014084507044</data>
+    </edge>
+    <edge source="Ataollah Khogiani" target="Pashto">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Ataollah Khogiani" target="Anas Haqqani">
+      <data key="d0">0.11267605633802817</data>
+    </edge>
+    <edge source="Ataollah Khogiani" target="Rahmatullah Nabil">
+      <data key="d0">0.16901408450704225</data>
+    </edge>
+    <edge source="Muhammad Ashraf Ghani" target="Jens Stoltenberg">
+      <data key="d0">0.18309859154929578</data>
+    </edge>
+    <edge source="Muhammad Ashraf Ghani" target="Jalaluddin Haqqani">
+      <data key="d0">0.23943661971830987</data>
+    </edge>
+    <edge source="Muhammad Ashraf Ghani" target="Jalalabad">
+      <data key="d0">0.14084507042253522</data>
+    </edge>
+    <edge source="Muhammad Ashraf Ghani" target="Afghanistan">
+      <data key="d0">0.14084507042253522</data>
+    </edge>
+    <edge source="Muhammad Ashraf Ghani" target="North Atlantic Treaty Organization">
+      <data key="d0">0.352112676056338</data>
+    </edge>
+    <edge source="Muhammad Ashraf Ghani" target="Pashto">
+      <data key="d0">0.14084507042253522</data>
+    </edge>
+    <edge source="Muhammad Ashraf Ghani" target="Anas Haqqani">
+      <data key="d0">0.18309859154929578</data>
+    </edge>
+    <edge source="Muhammad Ashraf Ghani" target="Rahmatullah Nabil">
+      <data key="d0">0.23943661971830987</data>
+    </edge>
+    <edge source="North Atlantic Treaty Organization" target="Jens Stoltenberg">
+      <data key="d0">1.1150234741784038</data>
+    </edge>
+    <edge source="North Atlantic Treaty Organization" target="Jalaluddin Haqqani">
+      <data key="d0">0.3380281690140845</data>
+    </edge>
+    <edge source="North Atlantic Treaty Organization" target="Jalalabad">
+      <data key="d0">0.23943661971830987</data>
+    </edge>
+    <edge source="North Atlantic Treaty Organization" target="Afghanistan">
+      <data key="d0">0.23943661971830987</data>
+    </edge>
+    <edge source="North Atlantic Treaty Organization" target="Pashto">
+      <data key="d0">0.23943661971830987</data>
+    </edge>
+    <edge source="North Atlantic Treaty Organization" target="Anas Haqqani">
+      <data key="d0">0.28169014084507044</data>
+    </edge>
+    <edge source="North Atlantic Treaty Organization" target="Rahmatullah Nabil">
+      <data key="d0">0.3380281690140845</data>
+    </edge>
+    <edge source="Jens Stoltenberg" target="Jalaluddin Haqqani">
+      <data key="d0">0.16901408450704225</data>
+    </edge>
+    <edge source="Jens Stoltenberg" target="Jalalabad">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Jens Stoltenberg" target="Afghanistan">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Jens Stoltenberg" target="Pashto">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Jens Stoltenberg" target="Anas Haqqani">
+      <data key="d0">0.11267605633802817</data>
+    </edge>
+    <edge source="Jens Stoltenberg" target="Rahmatullah Nabil">
+      <data key="d0">0.16901408450704225</data>
+    </edge>
+    <edge source="Rahmatullah Nabil" target="Anas Haqqani">
+      <data key="d0">0.6690140845070423</data>
+    </edge>
+    <edge source="Rahmatullah Nabil" target="Jalaluddin Haqqani">
+      <data key="d0">0.9753521126760564</data>
+    </edge>
+    <edge source="Rahmatullah Nabil" target="Jalalabad">
+      <data key="d0">0.1267605633802817</data>
+    </edge>
+    <edge source="Rahmatullah Nabil" target="Afghanistan">
+      <data key="d0">0.1267605633802817</data>
+    </edge>
+    <edge source="Rahmatullah Nabil" target="Pashto">
+      <data key="d0">0.1267605633802817</data>
+    </edge>
+    <edge source="Anas Haqqani" target="Jalaluddin Haqqani">
+      <data key="d0">0.9190140845070423</data>
+    </edge>
+    <edge source="Anas Haqqani" target="Jalalabad">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Anas Haqqani" target="Afghanistan">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Anas Haqqani" target="Pashto">
+      <data key="d0">0.07042253521126761</data>
+    </edge>
+    <edge source="Jalaluddin Haqqani" target="Jalalabad">
+      <data key="d0">0.1267605633802817</data>
+    </edge>
+    <edge source="Jalaluddin Haqqani" target="Afghanistan">
+      <data key="d0">0.1267605633802817</data>
+    </edge>
+    <edge source="Jalaluddin Haqqani" target="Pashto">
+      <data key="d0">0.1267605633802817</data>
+    </edge>
+    <edge source="Jalalabad" target="Pashto">
+      <data key="d0">1.028169014084507</data>
+    </edge>
+    <edge source="Jalalabad" target="Afghanistan">
+      <data key="d0">0.028169014084507043</data>
+    </edge>
+    <edge source="Pashto" target="Afghanistan">
+      <data key="d0">0.028169014084507043</data>
+    </edge>
+    <edge source="West" target="ISIL">
+      <data key="d0">1.5964912280701755</data>
+    </edge>
+    <edge source="West" target="Al Qaida">
+      <data key="d0">1.1052631578947367</data>
+    </edge>
+    <edge source="West" target="London">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="West" target="Theresa May">
+      <data key="d0">0.5964912280701754</data>
+    </edge>
+    <edge source="West" target="Manchester">
+      <data key="d0">0.05195681511470985</data>
+    </edge>
+    <edge source="West" target="Conservative Party">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="West" target="United Kingdom">
+      <data key="d0">0.08029689608636977</data>
+    </edge>
+    <edge source="West" target="Labour Party">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="West" target="Madrid">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="West" target="Ariana Grande">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="West" target="Orlando">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="West" target="Osama Bin Laden">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="West" target="Westminster">
+      <data key="d0">0.04993252361673414</data>
+    </edge>
+    <edge source="West" target="Muhammad">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="West" target="England">
+      <data key="d0">0.04790823211875843</data>
+    </edge>
+    <edge source="West" target="Florida">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="West" target="Iraq">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="West" target="Jose Aznar">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="West" target="George W Bush">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="West" target="Omar Mateen">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="West" target="Spain">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="West" target="Garland">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="West" target="Hamza">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="West" target="Texas">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="West" target="Middle East">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="West" target="Khalid Masood">
+      <data key="d0">0.5101214574898786</data>
+    </edge>
+    <edge source="West" target="Midlands">
+      <data key="d0">0.20404858299595144</data>
+    </edge>
+    <edge source="West" target="Mark Roberterts">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="West" target="Houses Of Parliament">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="West" target="London Ambulance Service">
+      <data key="d0">0.4210526315789474</data>
+    </edge>
+    <edge source="West" target="El Pastor">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="West" target="Bridge Tube">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="West" target="British Transport Police">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="West" target="Brad Meyers">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="West" target="U K">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="West" target="Katzenjammers">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="West" target="Sadiq Khan">
+      <data key="d0">0.018218623481781375</data>
+    </edge>
+    <edge source="West" target="SUV">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="West" target="Thames">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="West" target="Borough Market">
+      <data key="d0">0.06680161943319839</data>
+    </edge>
+    <edge source="West" target="Us Department Of Homeland Security">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="West" target="Elliot">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="West" target="Vauxhall">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="West" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="West" target="Bridge">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="West" target="Metropolitan Police Service">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="West" target="Metropolitan Police">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="West" target="Paul Connell">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="West" target="Mark Rowley">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="West" target="Sean Spicer">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="West" target="Arena">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="West" target="Jack Applebee">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="West" target="White House">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="ISIL" target="Middle East">
+      <data key="d0">1.0964912280701755</data>
+    </edge>
+    <edge source="ISIL" target="London">
+      <data key="d0">1.1140350877192982</data>
+    </edge>
+    <edge source="ISIL" target="Omar Mateen">
+      <data key="d0">0.631578947368421</data>
+    </edge>
+    <edge source="ISIL" target="Orlando">
+      <data key="d0">0.32894736842105265</data>
+    </edge>
+    <edge source="ISIL" target="Theresa May">
+      <data key="d0">0.09649122807017543</data>
+    </edge>
+    <edge source="ISIL" target="Al Qaida">
+      <data key="d0">0.13157894736842105</data>
+    </edge>
+    <edge source="ISIL" target="Manchester">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="ISIL" target="Conservative Party">
+      <data key="d0">0.09649122807017543</data>
+    </edge>
+    <edge source="ISIL" target="United Kingdom">
+      <data key="d0">0.09649122807017543</data>
+    </edge>
+    <edge source="ISIL" target="Labour Party">
+      <data key="d0">0.09649122807017543</data>
+    </edge>
+    <edge source="ISIL" target="Madrid">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="ISIL" target="Ariana Grande">
+      <data key="d0">0.09649122807017543</data>
+    </edge>
+    <edge source="ISIL" target="Osama Bin Laden">
+      <data key="d0">0.14035087719298245</data>
+    </edge>
+    <edge source="ISIL" target="Westminster">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="ISIL" target="Muhammad">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="ISIL" target="England">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="ISIL" target="Florida">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="ISIL" target="Iraq">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="ISIL" target="Jose Aznar">
+      <data key="d0">0.13157894736842105</data>
+    </edge>
+    <edge source="ISIL" target="George W Bush">
+      <data key="d0">0.14035087719298245</data>
+    </edge>
+    <edge source="ISIL" target="Spain">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="ISIL" target="Garland">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="ISIL" target="Hamza">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="ISIL" target="Texas">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Hamza" target="Osama Bin Laden">
+      <data key="d0">0.8020050125313283</data>
+    </edge>
+    <edge source="Hamza" target="Al Qaida">
+      <data key="d0">0.43609022556390975</data>
+    </edge>
+    <edge source="Hamza" target="London">
+      <data key="d0">0.06140350877192982</data>
+    </edge>
+    <edge source="Hamza" target="Theresa May">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Hamza" target="Manchester">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Hamza" target="Conservative Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Hamza" target="United Kingdom">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Hamza" target="Labour Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Hamza" target="Madrid">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Hamza" target="Ariana Grande">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Hamza" target="Orlando">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Hamza" target="Westminster">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Hamza" target="Muhammad">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Hamza" target="England">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Hamza" target="Florida">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Hamza" target="Iraq">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Hamza" target="Jose Aznar">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Hamza" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Hamza" target="Omar Mateen">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Hamza" target="Spain">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Hamza" target="Garland">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Hamza" target="Texas">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Hamza" target="Middle East">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Al Qaida">
+      <data key="d0">1.0776942355889725</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="London">
+      <data key="d0">0.13157894736842105</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Theresa May">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Manchester">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Conservative Party">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="United Kingdom">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Labour Party">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Madrid">
+      <data key="d0">0.09649122807017543</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Ariana Grande">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Orlando">
+      <data key="d0">0.09649122807017543</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Westminster">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Muhammad">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="England">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Florida">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Iraq">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Jose Aznar">
+      <data key="d0">0.14912280701754385</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="George W Bush">
+      <data key="d0">0.15789473684210525</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Omar Mateen">
+      <data key="d0">0.14912280701754385</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Spain">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Garland">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Texas">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Osama Bin Laden" target="Middle East">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Al Qaida" target="London">
+      <data key="d0">0.12280701754385964</data>
+    </edge>
+    <edge source="Al Qaida" target="Theresa May">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Al Qaida" target="Manchester">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Al Qaida" target="Conservative Party">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Al Qaida" target="United Kingdom">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Al Qaida" target="Labour Party">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Al Qaida" target="Madrid">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Al Qaida" target="Ariana Grande">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Al Qaida" target="Orlando">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Al Qaida" target="Westminster">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Al Qaida" target="Muhammad">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Al Qaida" target="England">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Al Qaida" target="Florida">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Al Qaida" target="Iraq">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Al Qaida" target="Jose Aznar">
+      <data key="d0">0.14035087719298245</data>
+    </edge>
+    <edge source="Al Qaida" target="George W Bush">
+      <data key="d0">0.14912280701754385</data>
+    </edge>
+    <edge source="Al Qaida" target="Omar Mateen">
+      <data key="d0">0.14035087719298245</data>
+    </edge>
+    <edge source="Al Qaida" target="Spain">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Al Qaida" target="Garland">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Al Qaida" target="Texas">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Al Qaida" target="Middle East">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Orlando" target="Florida">
+      <data key="d0">0.22631578947368422</data>
+    </edge>
+    <edge source="Orlando" target="Omar Mateen">
+      <data key="d0">1.0043859649122806</data>
+    </edge>
+    <edge source="Orlando" target="London">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Orlando" target="Theresa May">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Orlando" target="Manchester">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Orlando" target="Conservative Party">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Orlando" target="United Kingdom">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Orlando" target="Labour Party">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Orlando" target="Madrid">
+      <data key="d0">0.03508771929824561</data>
+    </edge>
+    <edge source="Orlando" target="Ariana Grande">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Orlando" target="Westminster">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Orlando" target="Muhammad">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Orlando" target="England">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Orlando" target="Iraq">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Orlando" target="Jose Aznar">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Orlando" target="George W Bush">
+      <data key="d0">0.09649122807017543</data>
+    </edge>
+    <edge source="Orlando" target="Spain">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Orlando" target="Garland">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Orlando" target="Texas">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Orlando" target="Middle East">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Florida" target="Omar Mateen">
+      <data key="d0">0.5789473684210527</data>
+    </edge>
+    <edge source="Florida" target="London">
+      <data key="d0">0.06140350877192982</data>
+    </edge>
+    <edge source="Florida" target="Theresa May">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Florida" target="Manchester">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Florida" target="Conservative Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Florida" target="United Kingdom">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Florida" target="Labour Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Florida" target="Madrid">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Florida" target="Ariana Grande">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Florida" target="Westminster">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Florida" target="Muhammad">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Florida" target="England">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Florida" target="Iraq">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Florida" target="Jose Aznar">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Florida" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Florida" target="Spain">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Florida" target="Garland">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Florida" target="Texas">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Florida" target="Middle East">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Omar Mateen" target="London">
+      <data key="d0">0.12280701754385964</data>
+    </edge>
+    <edge source="Omar Mateen" target="Theresa May">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Omar Mateen" target="Manchester">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Omar Mateen" target="Conservative Party">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Omar Mateen" target="United Kingdom">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Omar Mateen" target="Labour Party">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Omar Mateen" target="Madrid">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Omar Mateen" target="Ariana Grande">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Omar Mateen" target="Westminster">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Omar Mateen" target="Muhammad">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Omar Mateen" target="England">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Omar Mateen" target="Iraq">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Omar Mateen" target="Jose Aznar">
+      <data key="d0">0.14035087719298245</data>
+    </edge>
+    <edge source="Omar Mateen" target="George W Bush">
+      <data key="d0">0.14912280701754385</data>
+    </edge>
+    <edge source="Omar Mateen" target="Spain">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Omar Mateen" target="Garland">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Omar Mateen" target="Texas">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Omar Mateen" target="Middle East">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Muhammad" target="Garland">
+      <data key="d0">0.6842105263157894</data>
+    </edge>
+    <edge source="Muhammad" target="Texas">
+      <data key="d0">0.6842105263157894</data>
+    </edge>
+    <edge source="Muhammad" target="London">
+      <data key="d0">0.06140350877192982</data>
+    </edge>
+    <edge source="Muhammad" target="Theresa May">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Muhammad" target="Manchester">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Muhammad" target="Conservative Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Muhammad" target="United Kingdom">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Muhammad" target="Labour Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Muhammad" target="Madrid">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Muhammad" target="Ariana Grande">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Muhammad" target="Westminster">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Muhammad" target="England">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Muhammad" target="Iraq">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Muhammad" target="Jose Aznar">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Muhammad" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Muhammad" target="Spain">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Muhammad" target="Middle East">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Garland" target="Texas">
+      <data key="d0">0.6842105263157894</data>
+    </edge>
+    <edge source="Garland" target="London">
+      <data key="d0">0.06140350877192982</data>
+    </edge>
+    <edge source="Garland" target="Theresa May">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Garland" target="Manchester">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Garland" target="Conservative Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Garland" target="United Kingdom">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Garland" target="Labour Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Garland" target="Madrid">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Garland" target="Ariana Grande">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Garland" target="Westminster">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Garland" target="England">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Garland" target="Iraq">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Garland" target="Jose Aznar">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Garland" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Garland" target="Spain">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Garland" target="Middle East">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Texas" target="London">
+      <data key="d0">0.06140350877192982</data>
+    </edge>
+    <edge source="Texas" target="Theresa May">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Texas" target="Manchester">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Texas" target="Conservative Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Texas" target="United Kingdom">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Texas" target="Labour Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Texas" target="Madrid">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Texas" target="Ariana Grande">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Texas" target="Westminster">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Texas" target="England">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Texas" target="Iraq">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Texas" target="Jose Aznar">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Texas" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Texas" target="Spain">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Texas" target="Middle East">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Middle East" target="London">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Middle East" target="Theresa May">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Middle East" target="Manchester">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Middle East" target="Conservative Party">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Middle East" target="United Kingdom">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Middle East" target="Labour Party">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Middle East" target="Madrid">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Middle East" target="Ariana Grande">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Middle East" target="Westminster">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Middle East" target="England">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Middle East" target="Iraq">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Middle East" target="Jose Aznar">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Middle East" target="George W Bush">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Middle East" target="Spain">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="London" target="Westminster">
+      <data key="d0">1.0614035087719298</data>
+    </edge>
+    <edge source="London" target="Theresa May">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="London" target="Manchester">
+      <data key="d0">0.06140350877192982</data>
+    </edge>
+    <edge source="London" target="Conservative Party">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="London" target="United Kingdom">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="London" target="Labour Party">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="London" target="Madrid">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="London" target="Ariana Grande">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="London" target="England">
+      <data key="d0">0.06140350877192982</data>
+    </edge>
+    <edge source="London" target="Iraq">
+      <data key="d0">0.06140350877192982</data>
+    </edge>
+    <edge source="London" target="Jose Aznar">
+      <data key="d0">0.12280701754385964</data>
+    </edge>
+    <edge source="London" target="George W Bush">
+      <data key="d0">0.13157894736842105</data>
+    </edge>
+    <edge source="London" target="Spain">
+      <data key="d0">0.06140350877192982</data>
+    </edge>
+    <edge source="Ariana Grande" target="Manchester">
+      <data key="d0">0.8771929824561403</data>
+    </edge>
+    <edge source="Ariana Grande" target="England">
+      <data key="d0">0.8771929824561403</data>
+    </edge>
+    <edge source="Ariana Grande" target="Theresa May">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Ariana Grande" target="Conservative Party">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Ariana Grande" target="United Kingdom">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Ariana Grande" target="Labour Party">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Ariana Grande" target="Madrid">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Ariana Grande" target="Westminster">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Ariana Grande" target="Iraq">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Ariana Grande" target="Jose Aznar">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Ariana Grande" target="George W Bush">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Ariana Grande" target="Spain">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Manchester" target="England">
+      <data key="d0">1.0256410256410255</data>
+    </edge>
+    <edge source="Manchester" target="Theresa May">
+      <data key="d0">0.07422402159244265</data>
+    </edge>
+    <edge source="Manchester" target="Conservative Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Manchester" target="United Kingdom">
+      <data key="d0">0.058029689608636977</data>
+    </edge>
+    <edge source="Manchester" target="Labour Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Manchester" target="Madrid">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Manchester" target="Westminster">
+      <data key="d0">0.027665317139001347</data>
+    </edge>
+    <edge source="Manchester" target="Iraq">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Manchester" target="Jose Aznar">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Manchester" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Manchester" target="Spain">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Manchester" target="Arena">
+      <data key="d0">0.6747638326585694</data>
+    </edge>
+    <edge source="Manchester" target="Mark Roberterts">
+      <data key="d0">0.0465587044534413</data>
+    </edge>
+    <edge source="Manchester" target="Houses Of Parliament">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Manchester" target="London Ambulance Service">
+      <data key="d0">0.4251012145748988</data>
+    </edge>
+    <edge source="Manchester" target="El Pastor">
+      <data key="d0">0.01417004048582996</data>
+    </edge>
+    <edge source="Manchester" target="Bridge Tube">
+      <data key="d0">0.03036437246963563</data>
+    </edge>
+    <edge source="Manchester" target="British Transport Police">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Manchester" target="Brad Meyers">
+      <data key="d0">0.01417004048582996</data>
+    </edge>
+    <edge source="Manchester" target="U K">
+      <data key="d0">0.01417004048582996</data>
+    </edge>
+    <edge source="Manchester" target="Midlands">
+      <data key="d0">0.008097165991902834</data>
+    </edge>
+    <edge source="Manchester" target="Katzenjammers">
+      <data key="d0">0.008097165991902834</data>
+    </edge>
+    <edge source="Manchester" target="Sadiq Khan">
+      <data key="d0">0.022267206477732795</data>
+    </edge>
+    <edge source="Manchester" target="SUV">
+      <data key="d0">0.008097165991902834</data>
+    </edge>
+    <edge source="Manchester" target="Thames">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Manchester" target="Borough Market">
+      <data key="d0">0.0708502024291498</data>
+    </edge>
+    <edge source="Manchester" target="Us Department Of Homeland Security">
+      <data key="d0">0.05668016194331984</data>
+    </edge>
+    <edge source="Manchester" target="Elliot">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Manchester" target="Vauxhall">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Manchester" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05668016194331984</data>
+    </edge>
+    <edge source="Manchester" target="Bridge">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Manchester" target="Khalid Masood">
+      <data key="d0">0.01417004048582996</data>
+    </edge>
+    <edge source="Manchester" target="Metropolitan Police Service">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Manchester" target="Metropolitan Police">
+      <data key="d0">0.038461538461538464</data>
+    </edge>
+    <edge source="Manchester" target="Paul Connell">
+      <data key="d0">0.01417004048582996</data>
+    </edge>
+    <edge source="Manchester" target="Mark Rowley">
+      <data key="d0">0.03036437246963563</data>
+    </edge>
+    <edge source="Manchester" target="Sean Spicer">
+      <data key="d0">0.01417004048582996</data>
+    </edge>
+    <edge source="Manchester" target="Jack Applebee">
+      <data key="d0">0.038461538461538464</data>
+    </edge>
+    <edge source="Manchester" target="White House">
+      <data key="d0">0.01417004048582996</data>
+    </edge>
+    <edge source="England" target="Theresa May">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="England" target="Conservative Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="England" target="United Kingdom">
+      <data key="d0">0.053981106612685556</data>
+    </edge>
+    <edge source="England" target="Labour Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="England" target="Madrid">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="England" target="Westminster">
+      <data key="d0">0.023616734143049933</data>
+    </edge>
+    <edge source="England" target="Iraq">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="England" target="Jose Aznar">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="England" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="England" target="Spain">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="England" target="Arena">
+      <data key="d0">0.6707152496626181</data>
+    </edge>
+    <edge source="England" target="Mark Roberterts">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="England" target="Houses Of Parliament">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="England" target="London Ambulance Service">
+      <data key="d0">0.4210526315789474</data>
+    </edge>
+    <edge source="England" target="El Pastor">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="England" target="Bridge Tube">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="England" target="British Transport Police">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="England" target="Brad Meyers">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="England" target="U K">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="England" target="Midlands">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="England" target="Katzenjammers">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="England" target="Sadiq Khan">
+      <data key="d0">0.018218623481781375</data>
+    </edge>
+    <edge source="England" target="SUV">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="England" target="Thames">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="England" target="Borough Market">
+      <data key="d0">0.06680161943319839</data>
+    </edge>
+    <edge source="England" target="Us Department Of Homeland Security">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="England" target="Elliot">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="England" target="Vauxhall">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="England" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="England" target="Bridge">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="England" target="Khalid Masood">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="England" target="Metropolitan Police Service">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="England" target="Metropolitan Police">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="England" target="Paul Connell">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="England" target="Mark Rowley">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="England" target="Sean Spicer">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="England" target="Jack Applebee">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="England" target="White House">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Westminster" target="Theresa May">
+      <data key="d0">0.07219973009446694</data>
+    </edge>
+    <edge source="Westminster" target="Conservative Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Westminster" target="United Kingdom">
+      <data key="d0">0.8893387314439946</data>
+    </edge>
+    <edge source="Westminster" target="Labour Party">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Westminster" target="Madrid">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Westminster" target="Iraq">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Westminster" target="Jose Aznar">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Westminster" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Westminster" target="Spain">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Westminster" target="Bridge">
+      <data key="d0">0.3556005398110661</data>
+    </edge>
+    <edge source="Westminster" target="SUV">
+      <data key="d0">0.13940620782726046</data>
+    </edge>
+    <edge source="Westminster" target="Bridge Tube">
+      <data key="d0">0.3616734143049932</data>
+    </edge>
+    <edge source="Westminster" target="London Ambulance Service">
+      <data key="d0">1.0897435897435896</data>
+    </edge>
+    <edge source="Westminster" target="Mark Roberterts">
+      <data key="d0">0.04453441295546559</data>
+    </edge>
+    <edge source="Westminster" target="Houses Of Parliament">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Westminster" target="El Pastor">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Westminster" target="British Transport Police">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Westminster" target="Brad Meyers">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Westminster" target="U K">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Westminster" target="Midlands">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Westminster" target="Katzenjammers">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Westminster" target="Sadiq Khan">
+      <data key="d0">0.020242914979757085</data>
+    </edge>
+    <edge source="Westminster" target="Thames">
+      <data key="d0">0.008097165991902834</data>
+    </edge>
+    <edge source="Westminster" target="Borough Market">
+      <data key="d0">0.06882591093117409</data>
+    </edge>
+    <edge source="Westminster" target="Us Department Of Homeland Security">
+      <data key="d0">0.05465587044534413</data>
+    </edge>
+    <edge source="Westminster" target="Elliot">
+      <data key="d0">0.008097165991902834</data>
+    </edge>
+    <edge source="Westminster" target="Vauxhall">
+      <data key="d0">0.008097165991902834</data>
+    </edge>
+    <edge source="Westminster" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05465587044534413</data>
+    </edge>
+    <edge source="Westminster" target="Khalid Masood">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Westminster" target="Metropolitan Police Service">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Westminster" target="Metropolitan Police">
+      <data key="d0">0.03643724696356275</data>
+    </edge>
+    <edge source="Westminster" target="Paul Connell">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Westminster" target="Mark Rowley">
+      <data key="d0">0.02834008097165992</data>
+    </edge>
+    <edge source="Westminster" target="Sean Spicer">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Westminster" target="Arena">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Westminster" target="Jack Applebee">
+      <data key="d0">0.03643724696356275</data>
+    </edge>
+    <edge source="Westminster" target="White House">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Theresa May" target="Conservative Party">
+      <data key="d0">0.7368421052631579</data>
+    </edge>
+    <edge source="Theresa May" target="Labour Party">
+      <data key="d0">0.7368421052631579</data>
+    </edge>
+    <edge source="Theresa May" target="United Kingdom">
+      <data key="d0">0.10256410256410256</data>
+    </edge>
+    <edge source="Theresa May" target="Madrid">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Theresa May" target="Iraq">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Theresa May" target="Jose Aznar">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Theresa May" target="George W Bush">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Theresa May" target="Spain">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Theresa May" target="London Ambulance Service">
+      <data key="d0">2.0544309491677915</data>
+    </edge>
+    <edge source="Theresa May" target="Metropolitan Police Service">
+      <data key="d0">0.403621232568601</data>
+    </edge>
+    <edge source="Theresa May" target="Bridge">
+      <data key="d0">0.1813990103463788</data>
+    </edge>
+    <edge source="Theresa May" target="Borough Market">
+      <data key="d0">0.3112910481331534</data>
+    </edge>
+    <edge source="Theresa May" target="Khalid Masood">
+      <data key="d0">0.8323886639676114</data>
+    </edge>
+    <edge source="Theresa May" target="Midlands">
+      <data key="d0">0.5263157894736842</data>
+    </edge>
+    <edge source="Theresa May" target="Mark Roberterts">
+      <data key="d0">0.06477732793522267</data>
+    </edge>
+    <edge source="Theresa May" target="Houses Of Parliament">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Theresa May" target="El Pastor">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Theresa May" target="Bridge Tube">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="Theresa May" target="British Transport Police">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Theresa May" target="Brad Meyers">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Theresa May" target="U K">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Theresa May" target="Katzenjammers">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Theresa May" target="Sadiq Khan">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Theresa May" target="SUV">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Theresa May" target="Thames">
+      <data key="d0">0.02834008097165992</data>
+    </edge>
+    <edge source="Theresa May" target="Us Department Of Homeland Security">
+      <data key="d0">0.07489878542510121</data>
+    </edge>
+    <edge source="Theresa May" target="Elliot">
+      <data key="d0">0.02834008097165992</data>
+    </edge>
+    <edge source="Theresa May" target="Vauxhall">
+      <data key="d0">0.02834008097165992</data>
+    </edge>
+    <edge source="Theresa May" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.07489878542510121</data>
+    </edge>
+    <edge source="Theresa May" target="Metropolitan Police">
+      <data key="d0">0.05668016194331984</data>
+    </edge>
+    <edge source="Theresa May" target="Paul Connell">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Theresa May" target="Mark Rowley">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="Theresa May" target="Sean Spicer">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Theresa May" target="Arena">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Theresa May" target="Jack Applebee">
+      <data key="d0">0.05668016194331984</data>
+    </edge>
+    <edge source="Theresa May" target="White House">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Conservative Party" target="Labour Party">
+      <data key="d0">0.7368421052631579</data>
+    </edge>
+    <edge source="Conservative Party" target="United Kingdom">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Conservative Party" target="Madrid">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Conservative Party" target="Iraq">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Conservative Party" target="Jose Aznar">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Conservative Party" target="George W Bush">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Conservative Party" target="Spain">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Labour Party" target="United Kingdom">
+      <data key="d0">0.07017543859649122</data>
+    </edge>
+    <edge source="Labour Party" target="Madrid">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Labour Party" target="Iraq">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Labour Party" target="Jose Aznar">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Labour Party" target="George W Bush">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="Labour Party" target="Spain">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Madrid" target="Spain">
+      <data key="d0">1.0263157894736843</data>
+    </edge>
+    <edge source="Madrid" target="Jose Aznar">
+      <data key="d0">1.087719298245614</data>
+    </edge>
+    <edge source="Madrid" target="United Kingdom">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Madrid" target="Iraq">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Madrid" target="George W Bush">
+      <data key="d0">0.09649122807017543</data>
+    </edge>
+    <edge source="Spain" target="United Kingdom">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Spain" target="Iraq">
+      <data key="d0">0.017543859649122806</data>
+    </edge>
+    <edge source="Spain" target="Jose Aznar">
+      <data key="d0">0.07894736842105263</data>
+    </edge>
+    <edge source="Spain" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Jose Aznar" target="Iraq">
+      <data key="d0">1.0789473684210527</data>
+    </edge>
+    <edge source="Jose Aznar" target="United Kingdom">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Jose Aznar" target="George W Bush">
+      <data key="d0">0.14912280701754385</data>
+    </edge>
+    <edge source="Iraq" target="United Kingdom">
+      <data key="d0">0.043859649122807015</data>
+    </edge>
+    <edge source="Iraq" target="George W Bush">
+      <data key="d0">0.08771929824561403</data>
+    </edge>
+    <edge source="Iraq" target="Mosul">
+      <data key="d0">2.054054054054054</data>
+    </edge>
+    <edge source="Iraq" target="Us Backed">
+      <data key="d0">0.0990990990990991</data>
+    </edge>
+    <edge source="Iraq" target="Spot Development">
+      <data key="d0">0.06306306306306306</data>
+    </edge>
+    <edge source="Iraq" target="Euphrates">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Iraq" target="United Nations">
+      <data key="d0">0.0990990990990991</data>
+    </edge>
+    <edge source="Iraq" target="Stephen Townsend">
+      <data key="d0">0.06306306306306306</data>
+    </edge>
+    <edge source="Iraq" target="SDF">
+      <data key="d0">0.08108108108108109</data>
+    </edge>
+    <edge source="Iraq" target="Unhcr">
+      <data key="d0">0.036036036036036036</data>
+    </edge>
+    <edge source="Iraq" target="Mansoura">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Iraq" target="Syrian Observatory For Human Rights">
+      <data key="d0">0.25225225225225223</data>
+    </edge>
+    <edge source="Iraq" target="Aamaq">
+      <data key="d0">0.036036036036036036</data>
+    </edge>
+    <edge source="Iraq" target="Raqqa">
+      <data key="d0">0.13513513513513514</data>
+    </edge>
+    <edge source="Iraq" target="Ocha">
+      <data key="d0">0.036036036036036036</data>
+    </edge>
+    <edge source="Iraq" target="Cihan Sheikh Ehmed">
+      <data key="d0">0.10810810810810811</data>
+    </edge>
+    <edge source="United Kingdom" target="George W Bush">
+      <data key="d0">0.11403508771929824</data>
+    </edge>
+    <edge source="United Kingdom" target="Bridge">
+      <data key="d0">0.8596491228070174</data>
+    </edge>
+    <edge source="United Kingdom" target="Mark Roberterts">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="United Kingdom" target="Houses Of Parliament">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="United Kingdom" target="London Ambulance Service">
+      <data key="d0">0.42712550607287453</data>
+    </edge>
+    <edge source="United Kingdom" target="El Pastor">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="United Kingdom" target="Bridge Tube">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="United Kingdom" target="British Transport Police">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="United Kingdom" target="Brad Meyers">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="United Kingdom" target="U K">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="United Kingdom" target="Midlands">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="United Kingdom" target="Katzenjammers">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="United Kingdom" target="Sadiq Khan">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="United Kingdom" target="SUV">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="United Kingdom" target="Thames">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="United Kingdom" target="Borough Market">
+      <data key="d0">0.0728744939271255</data>
+    </edge>
+    <edge source="United Kingdom" target="Us Department Of Homeland Security">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="United Kingdom" target="Elliot">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="United Kingdom" target="Vauxhall">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="United Kingdom" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="United Kingdom" target="Khalid Masood">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="United Kingdom" target="Metropolitan Police Service">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="United Kingdom" target="Metropolitan Police">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="United Kingdom" target="Paul Connell">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="United Kingdom" target="Mark Rowley">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="United Kingdom" target="Sean Spicer">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="United Kingdom" target="Arena">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="United Kingdom" target="Jack Applebee">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="United Kingdom" target="White House">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Bridge">
+      <data key="d0">4.114093064321898</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Mark Rowley">
+      <data key="d0">1.9371086579324568</data>
+    </edge>
+    <edge source="London Ambulance Service" target="British Transport Police">
+      <data key="d0">1.219855659214927</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Metropolitan Police Service">
+      <data key="d0">1.1872469635627532</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Borough Market">
+      <data key="d0">1.0949167791273056</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Sadiq Khan">
+      <data key="d0">1.4352226720647774</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Metropolitan Police">
+      <data key="d0">1.451417004048583</data>
+    </edge>
+    <edge source="London Ambulance Service" target="U K">
+      <data key="d0">1.0461731251204935</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Bridge Tube">
+      <data key="d0">2.309986504723347</data>
+    </edge>
+    <edge source="London Ambulance Service" target="SUV">
+      <data key="d0">1.087719298245614</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Mark Roberterts">
+      <data key="d0">0.45951417004048584</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Houses Of Parliament">
+      <data key="d0">0.43724696356275305</data>
+    </edge>
+    <edge source="London Ambulance Service" target="El Pastor">
+      <data key="d0">0.42712550607287453</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Brad Meyers">
+      <data key="d0">0.42712550607287453</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Midlands">
+      <data key="d0">0.4210526315789474</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Katzenjammers">
+      <data key="d0">0.4210526315789474</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Thames">
+      <data key="d0">0.4230769230769231</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Us Department Of Homeland Security">
+      <data key="d0">0.46963562753036436</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Elliot">
+      <data key="d0">0.4230769230769231</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Vauxhall">
+      <data key="d0">0.4230769230769231</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.46963562753036436</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Khalid Masood">
+      <data key="d0">0.42712550607287453</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Paul Connell">
+      <data key="d0">0.42712550607287453</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Sean Spicer">
+      <data key="d0">0.42712550607287453</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Arena">
+      <data key="d0">0.4210526315789474</data>
+    </edge>
+    <edge source="London Ambulance Service" target="Jack Applebee">
+      <data key="d0">0.451417004048583</data>
+    </edge>
+    <edge source="London Ambulance Service" target="White House">
+      <data key="d0">0.42712550607287453</data>
+    </edge>
+    <edge source="Bridge" target="Mark Rowley">
+      <data key="d0">0.617044282948173</data>
+    </edge>
+    <edge source="Bridge" target="British Transport Police">
+      <data key="d0">0.471219855659215</data>
+    </edge>
+    <edge source="Bridge" target="Metropolitan Police Service">
+      <data key="d0">0.31421502474134055</data>
+    </edge>
+    <edge source="Bridge" target="Borough Market">
+      <data key="d0">0.22188484030589295</data>
+    </edge>
+    <edge source="Bridge" target="Mark Roberterts">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Bridge" target="Houses Of Parliament">
+      <data key="d0">0.03643724696356275</data>
+    </edge>
+    <edge source="Bridge" target="El Pastor">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Bridge" target="Bridge Tube">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Bridge" target="Brad Meyers">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Bridge" target="U K">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Bridge" target="Midlands">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Bridge" target="Katzenjammers">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Bridge" target="Sadiq Khan">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Bridge" target="SUV">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Bridge" target="Thames">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Bridge" target="Us Department Of Homeland Security">
+      <data key="d0">0.06882591093117409</data>
+    </edge>
+    <edge source="Bridge" target="Elliot">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Bridge" target="Vauxhall">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Bridge" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.06882591093117409</data>
+    </edge>
+    <edge source="Bridge" target="Khalid Masood">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Bridge" target="Metropolitan Police">
+      <data key="d0">0.05060728744939271</data>
+    </edge>
+    <edge source="Bridge" target="Paul Connell">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Bridge" target="Sean Spicer">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Bridge" target="Arena">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Bridge" target="Jack Applebee">
+      <data key="d0">0.05060728744939271</data>
+    </edge>
+    <edge source="Bridge" target="White House">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Mark Rowley" target="British Transport Police">
+      <data key="d0">0.6077275127618378</data>
+    </edge>
+    <edge source="Mark Rowley" target="Borough Market">
+      <data key="d0">1.0890688259109311</data>
+    </edge>
+    <edge source="Mark Rowley" target="Mark Roberterts">
+      <data key="d0">0.06477732793522267</data>
+    </edge>
+    <edge source="Mark Rowley" target="Houses Of Parliament">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Mark Rowley" target="El Pastor">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Mark Rowley" target="Bridge Tube">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="Mark Rowley" target="Brad Meyers">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Mark Rowley" target="U K">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Mark Rowley" target="Midlands">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Mark Rowley" target="Katzenjammers">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Mark Rowley" target="Sadiq Khan">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Mark Rowley" target="SUV">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Mark Rowley" target="Thames">
+      <data key="d0">0.02834008097165992</data>
+    </edge>
+    <edge source="Mark Rowley" target="Us Department Of Homeland Security">
+      <data key="d0">0.07489878542510121</data>
+    </edge>
+    <edge source="Mark Rowley" target="Elliot">
+      <data key="d0">0.02834008097165992</data>
+    </edge>
+    <edge source="Mark Rowley" target="Vauxhall">
+      <data key="d0">0.02834008097165992</data>
+    </edge>
+    <edge source="Mark Rowley" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.07489878542510121</data>
+    </edge>
+    <edge source="Mark Rowley" target="Khalid Masood">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Mark Rowley" target="Metropolitan Police Service">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Mark Rowley" target="Metropolitan Police">
+      <data key="d0">0.05668016194331984</data>
+    </edge>
+    <edge source="Mark Rowley" target="Paul Connell">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Mark Rowley" target="Sean Spicer">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Mark Rowley" target="Arena">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Mark Rowley" target="Jack Applebee">
+      <data key="d0">0.05668016194331984</data>
+    </edge>
+    <edge source="Mark Rowley" target="White House">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="British Transport Police" target="Mark Roberterts">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="British Transport Police" target="Houses Of Parliament">
+      <data key="d0">0.03643724696356275</data>
+    </edge>
+    <edge source="British Transport Police" target="El Pastor">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="British Transport Police" target="Bridge Tube">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="British Transport Police" target="Brad Meyers">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="British Transport Police" target="U K">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="British Transport Police" target="Midlands">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="British Transport Police" target="Katzenjammers">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="British Transport Police" target="Sadiq Khan">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="British Transport Police" target="SUV">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="British Transport Police" target="Thames">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="British Transport Police" target="Borough Market">
+      <data key="d0">0.08299595141700405</data>
+    </edge>
+    <edge source="British Transport Police" target="Us Department Of Homeland Security">
+      <data key="d0">0.06882591093117409</data>
+    </edge>
+    <edge source="British Transport Police" target="Elliot">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="British Transport Police" target="Vauxhall">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="British Transport Police" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.06882591093117409</data>
+    </edge>
+    <edge source="British Transport Police" target="Khalid Masood">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="British Transport Police" target="Metropolitan Police Service">
+      <data key="d0">0.03643724696356275</data>
+    </edge>
+    <edge source="British Transport Police" target="Metropolitan Police">
+      <data key="d0">0.05060728744939271</data>
+    </edge>
+    <edge source="British Transport Police" target="Paul Connell">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="British Transport Police" target="Sean Spicer">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="British Transport Police" target="Arena">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="British Transport Police" target="Jack Applebee">
+      <data key="d0">0.05060728744939271</data>
+    </edge>
+    <edge source="British Transport Police" target="White House">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Borough Market" target="Metropolitan Police Service">
+      <data key="d0">0.44410706252811516</data>
+    </edge>
+    <edge source="Borough Market" target="Elliot">
+      <data key="d0">1.0688259109311742</data>
+    </edge>
+    <edge source="Borough Market" target="Metropolitan Police">
+      <data key="d0">0.8971659919028341</data>
+    </edge>
+    <edge source="Borough Market" target="Vauxhall">
+      <data key="d0">0.5688259109311741</data>
+    </edge>
+    <edge source="Borough Market" target="Thames">
+      <data key="d0">0.5688259109311741</data>
+    </edge>
+    <edge source="Borough Market" target="Mark Roberterts">
+      <data key="d0">0.10526315789473684</data>
+    </edge>
+    <edge source="Borough Market" target="Houses Of Parliament">
+      <data key="d0">0.08299595141700405</data>
+    </edge>
+    <edge source="Borough Market" target="El Pastor">
+      <data key="d0">0.0728744939271255</data>
+    </edge>
+    <edge source="Borough Market" target="Bridge Tube">
+      <data key="d0">0.08906882591093118</data>
+    </edge>
+    <edge source="Borough Market" target="Brad Meyers">
+      <data key="d0">0.0728744939271255</data>
+    </edge>
+    <edge source="Borough Market" target="U K">
+      <data key="d0">0.0728744939271255</data>
+    </edge>
+    <edge source="Borough Market" target="Midlands">
+      <data key="d0">0.06680161943319839</data>
+    </edge>
+    <edge source="Borough Market" target="Katzenjammers">
+      <data key="d0">0.06680161943319839</data>
+    </edge>
+    <edge source="Borough Market" target="Sadiq Khan">
+      <data key="d0">0.08097165991902834</data>
+    </edge>
+    <edge source="Borough Market" target="SUV">
+      <data key="d0">0.06680161943319839</data>
+    </edge>
+    <edge source="Borough Market" target="Us Department Of Homeland Security">
+      <data key="d0">0.11538461538461539</data>
+    </edge>
+    <edge source="Borough Market" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.11538461538461539</data>
+    </edge>
+    <edge source="Borough Market" target="Khalid Masood">
+      <data key="d0">0.0728744939271255</data>
+    </edge>
+    <edge source="Borough Market" target="Paul Connell">
+      <data key="d0">0.0728744939271255</data>
+    </edge>
+    <edge source="Borough Market" target="Sean Spicer">
+      <data key="d0">0.0728744939271255</data>
+    </edge>
+    <edge source="Borough Market" target="Arena">
+      <data key="d0">0.06680161943319839</data>
+    </edge>
+    <edge source="Borough Market" target="Jack Applebee">
+      <data key="d0">0.09716599190283401</data>
+    </edge>
+    <edge source="Borough Market" target="White House">
+      <data key="d0">0.0728744939271255</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Mark Roberterts">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Houses Of Parliament">
+      <data key="d0">0.03643724696356275</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="El Pastor">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Bridge Tube">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Brad Meyers">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="U K">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Midlands">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Katzenjammers">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Sadiq Khan">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="SUV">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Thames">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Us Department Of Homeland Security">
+      <data key="d0">0.06882591093117409</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Elliot">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Vauxhall">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.06882591093117409</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Khalid Masood">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Metropolitan Police">
+      <data key="d0">0.05060728744939271</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Paul Connell">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Sean Spicer">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Arena">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="Jack Applebee">
+      <data key="d0">0.05060728744939271</data>
+    </edge>
+    <edge source="Metropolitan Police Service" target="White House">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Mark Roberterts">
+      <data key="d0">0.05668016194331984</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Houses Of Parliament">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Sadiq Khan" target="El Pastor">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Bridge Tube">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Brad Meyers">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Sadiq Khan" target="U K">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Midlands">
+      <data key="d0">0.018218623481781375</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Katzenjammers">
+      <data key="d0">0.018218623481781375</data>
+    </edge>
+    <edge source="Sadiq Khan" target="SUV">
+      <data key="d0">0.018218623481781375</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Thames">
+      <data key="d0">0.020242914979757085</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Us Department Of Homeland Security">
+      <data key="d0">0.06680161943319837</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Elliot">
+      <data key="d0">0.020242914979757085</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Vauxhall">
+      <data key="d0">0.020242914979757085</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.06680161943319837</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Khalid Masood">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Metropolitan Police">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Paul Connell">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Sean Spicer">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Arena">
+      <data key="d0">0.018218623481781375</data>
+    </edge>
+    <edge source="Sadiq Khan" target="Jack Applebee">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="Sadiq Khan" target="White House">
+      <data key="d0">0.024291497975708502</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Vauxhall">
+      <data key="d0">0.5364372469635628</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Thames">
+      <data key="d0">0.5364372469635628</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Mark Roberterts">
+      <data key="d0">0.0728744939271255</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Houses Of Parliament">
+      <data key="d0">0.05060728744939271</data>
+    </edge>
+    <edge source="Metropolitan Police" target="El Pastor">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Bridge Tube">
+      <data key="d0">0.05668016194331984</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Brad Meyers">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Metropolitan Police" target="U K">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Midlands">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Katzenjammers">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Metropolitan Police" target="SUV">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Us Department Of Homeland Security">
+      <data key="d0">0.08299595141700405</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Elliot">
+      <data key="d0">0.03643724696356275</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.08299595141700405</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Khalid Masood">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Paul Connell">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Sean Spicer">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Arena">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Metropolitan Police" target="Jack Applebee">
+      <data key="d0">0.06477732793522267</data>
+    </edge>
+    <edge source="Metropolitan Police" target="White House">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="White House" target="Sean Spicer">
+      <data key="d0">0.5161943319838057</data>
+    </edge>
+    <edge source="White House" target="Mark Roberterts">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="White House" target="Houses Of Parliament">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="White House" target="El Pastor">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="White House" target="Bridge Tube">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="White House" target="Brad Meyers">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="White House" target="U K">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="White House" target="Midlands">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="White House" target="Katzenjammers">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="White House" target="SUV">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="White House" target="Thames">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="White House" target="Us Department Of Homeland Security">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="White House" target="Elliot">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="White House" target="Vauxhall">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="White House" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="White House" target="Khalid Masood">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="White House" target="Paul Connell">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="White House" target="Arena">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="White House" target="Jack Applebee">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Sean Spicer" target="Mark Roberterts">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="Sean Spicer" target="Houses Of Parliament">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Sean Spicer" target="El Pastor">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="Sean Spicer" target="Bridge Tube">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Sean Spicer" target="Brad Meyers">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="Sean Spicer" target="U K">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="Sean Spicer" target="Midlands">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Sean Spicer" target="Katzenjammers">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Sean Spicer" target="SUV">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Sean Spicer" target="Thames">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Sean Spicer" target="Us Department Of Homeland Security">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Sean Spicer" target="Elliot">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Sean Spicer" target="Vauxhall">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Sean Spicer" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Sean Spicer" target="Khalid Masood">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="Sean Spicer" target="Paul Connell">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="Sean Spicer" target="Arena">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Sean Spicer" target="Jack Applebee">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="U K" target="Mark Roberterts">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="U K" target="Houses Of Parliament">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="U K" target="El Pastor">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="U K" target="Bridge Tube">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="U K" target="Brad Meyers">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="U K" target="Midlands">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="U K" target="Katzenjammers">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="U K" target="SUV">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="U K" target="Thames">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="U K" target="Us Department Of Homeland Security">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="U K" target="Elliot">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="U K" target="Vauxhall">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="U K" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="U K" target="Khalid Masood">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="U K" target="Paul Connell">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="U K" target="Arena">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="U K" target="Jack Applebee">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Thames">
+      <data key="d0">1.0445344129554657</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Houses Of Parliament">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Mark Roberterts" target="El Pastor">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Bridge Tube">
+      <data key="d0">0.06477732793522267</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Brad Meyers">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Midlands">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Katzenjammers">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Mark Roberterts" target="SUV">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Us Department Of Homeland Security">
+      <data key="d0">0.09109311740890688</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Elliot">
+      <data key="d0">0.04453441295546559</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Vauxhall">
+      <data key="d0">0.04453441295546559</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.09109311740890688</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Khalid Masood">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Paul Connell">
+      <data key="d0">0.048582995951417005</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Arena">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Mark Roberterts" target="Jack Applebee">
+      <data key="d0">0.0728744939271255</data>
+    </edge>
+    <edge source="Thames" target="Vauxhall">
+      <data key="d0">0.20809716599190284</data>
+    </edge>
+    <edge source="Thames" target="Houses Of Parliament">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Thames" target="El Pastor">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Thames" target="Bridge Tube">
+      <data key="d0">0.02834008097165992</data>
+    </edge>
+    <edge source="Thames" target="Brad Meyers">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Thames" target="Midlands">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Thames" target="Katzenjammers">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Thames" target="SUV">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Thames" target="Us Department Of Homeland Security">
+      <data key="d0">0.05465587044534413</data>
+    </edge>
+    <edge source="Thames" target="Elliot">
+      <data key="d0">0.008097165991902834</data>
+    </edge>
+    <edge source="Thames" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05465587044534413</data>
+    </edge>
+    <edge source="Thames" target="Khalid Masood">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Thames" target="Paul Connell">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Thames" target="Arena">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Thames" target="Jack Applebee">
+      <data key="d0">0.03643724696356275</data>
+    </edge>
+    <edge source="Elliot" target="Jack Applebee">
+      <data key="d0">1.0364372469635628</data>
+    </edge>
+    <edge source="Elliot" target="Houses Of Parliament">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Elliot" target="El Pastor">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Elliot" target="Bridge Tube">
+      <data key="d0">0.02834008097165992</data>
+    </edge>
+    <edge source="Elliot" target="Brad Meyers">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Elliot" target="Midlands">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Elliot" target="Katzenjammers">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Elliot" target="SUV">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Elliot" target="Us Department Of Homeland Security">
+      <data key="d0">0.05465587044534413</data>
+    </edge>
+    <edge source="Elliot" target="Vauxhall">
+      <data key="d0">0.008097165991902834</data>
+    </edge>
+    <edge source="Elliot" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05465587044534413</data>
+    </edge>
+    <edge source="Elliot" target="Khalid Masood">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Elliot" target="Paul Connell">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Elliot" target="Arena">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Jack Applebee" target="Houses Of Parliament">
+      <data key="d0">0.05060728744939271</data>
+    </edge>
+    <edge source="Jack Applebee" target="El Pastor">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Jack Applebee" target="Bridge Tube">
+      <data key="d0">0.05668016194331984</data>
+    </edge>
+    <edge source="Jack Applebee" target="Brad Meyers">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Jack Applebee" target="Midlands">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Jack Applebee" target="Katzenjammers">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Jack Applebee" target="SUV">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Jack Applebee" target="Us Department Of Homeland Security">
+      <data key="d0">0.08299595141700405</data>
+    </edge>
+    <edge source="Jack Applebee" target="Vauxhall">
+      <data key="d0">0.03643724696356275</data>
+    </edge>
+    <edge source="Jack Applebee" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.08299595141700405</data>
+    </edge>
+    <edge source="Jack Applebee" target="Khalid Masood">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Jack Applebee" target="Paul Connell">
+      <data key="d0">0.04048582995951417</data>
+    </edge>
+    <edge source="Jack Applebee" target="Arena">
+      <data key="d0">0.03441295546558704</data>
+    </edge>
+    <edge source="Katzenjammers" target="Paul Connell">
+      <data key="d0">1.0101214574898785</data>
+    </edge>
+    <edge source="Katzenjammers" target="Houses Of Parliament">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Katzenjammers" target="El Pastor">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Katzenjammers" target="Bridge Tube">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Katzenjammers" target="Brad Meyers">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Katzenjammers" target="Midlands">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="Katzenjammers" target="SUV">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="Katzenjammers" target="Us Department Of Homeland Security">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Katzenjammers" target="Vauxhall">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Katzenjammers" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Katzenjammers" target="Khalid Masood">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Katzenjammers" target="Arena">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="Paul Connell" target="Houses Of Parliament">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Paul Connell" target="El Pastor">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="Paul Connell" target="Bridge Tube">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Paul Connell" target="Brad Meyers">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="Paul Connell" target="Midlands">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Paul Connell" target="SUV">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Paul Connell" target="Us Department Of Homeland Security">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Paul Connell" target="Vauxhall">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Paul Connell" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Paul Connell" target="Khalid Masood">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="Paul Connell" target="Arena">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Us Department Of Homeland Security" target="Houses Of Parliament">
+      <data key="d0">0.06882591093117409</data>
+    </edge>
+    <edge source="Us Department Of Homeland Security" target="El Pastor">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Us Department Of Homeland Security" target="Bridge Tube">
+      <data key="d0">0.07489878542510121</data>
+    </edge>
+    <edge source="Us Department Of Homeland Security" target="Brad Meyers">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Us Department Of Homeland Security" target="Midlands">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Us Department Of Homeland Security" target="SUV">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Us Department Of Homeland Security" target="Vauxhall">
+      <data key="d0">0.05465587044534413</data>
+    </edge>
+    <edge source="Us Department Of Homeland Security" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.10121457489878542</data>
+    </edge>
+    <edge source="Us Department Of Homeland Security" target="Khalid Masood">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Us Department Of Homeland Security" target="Arena">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Vauxhall" target="Houses Of Parliament">
+      <data key="d0">0.022267206477732792</data>
+    </edge>
+    <edge source="Vauxhall" target="El Pastor">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Vauxhall" target="Bridge Tube">
+      <data key="d0">0.02834008097165992</data>
+    </edge>
+    <edge source="Vauxhall" target="Brad Meyers">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Vauxhall" target="Midlands">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Vauxhall" target="SUV">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Vauxhall" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05465587044534413</data>
+    </edge>
+    <edge source="Vauxhall" target="Khalid Masood">
+      <data key="d0">0.012145748987854251</data>
+    </edge>
+    <edge source="Vauxhall" target="Arena">
+      <data key="d0">0.006072874493927126</data>
+    </edge>
+    <edge source="Bridge Tube" target="SUV">
+      <data key="d0">0.35964912280701755</data>
+    </edge>
+    <edge source="Bridge Tube" target="Houses Of Parliament">
+      <data key="d0">0.04251012145748988</data>
+    </edge>
+    <edge source="Bridge Tube" target="El Pastor">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Bridge Tube" target="Brad Meyers">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Bridge Tube" target="Midlands">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Bridge Tube" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.07489878542510121</data>
+    </edge>
+    <edge source="Bridge Tube" target="Khalid Masood">
+      <data key="d0">0.032388663967611336</data>
+    </edge>
+    <edge source="Bridge Tube" target="Arena">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Arena" target="Houses Of Parliament">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Arena" target="El Pastor">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Arena" target="Brad Meyers">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Arena" target="Midlands">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="Arena" target="SUV">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="Arena" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Arena" target="Khalid Masood">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="SUV" target="Houses Of Parliament">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="SUV" target="El Pastor">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="SUV" target="Brad Meyers">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="SUV" target="Midlands">
+      <data key="d0">0.004048582995951417</data>
+    </edge>
+    <edge source="SUV" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="SUV" target="Khalid Masood">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Khalid Masood" target="Midlands">
+      <data key="d0">0.5101214574898786</data>
+    </edge>
+    <edge source="Khalid Masood" target="Houses Of Parliament">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Khalid Masood" target="El Pastor">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="Khalid Masood" target="Brad Meyers">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="Khalid Masood" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Midlands" target="Houses Of Parliament">
+      <data key="d0">0.020242914979757082</data>
+    </edge>
+    <edge source="Midlands" target="El Pastor">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Midlands" target="Brad Meyers">
+      <data key="d0">0.010121457489878543</data>
+    </edge>
+    <edge source="Midlands" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.05263157894736842</data>
+    </edge>
+    <edge source="Houses Of Parliament" target="El Pastor">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Houses Of Parliament" target="Brad Meyers">
+      <data key="d0">0.02631578947368421</data>
+    </edge>
+    <edge source="Houses Of Parliament" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.06882591093117409</data>
+    </edge>
+    <edge source="El Pastor" target="Brad Meyers">
+      <data key="d0">0.016194331983805668</data>
+    </edge>
+    <edge source="El Pastor" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Brad Meyers" target="Metropolitan Police Counter Terrorism Command">
+      <data key="d0">0.058704453441295545</data>
+    </edge>
+    <edge source="Raqqa" target="Us Backed">
+      <data key="d0">1.0135135135135134</data>
+    </edge>
+    <edge source="Raqqa" target="Cihan Sheikh Ehmed">
+      <data key="d0">0.8558558558558558</data>
+    </edge>
+    <edge source="Raqqa" target="SDF">
+      <data key="d0">1.0311276794035416</data>
+    </edge>
+    <edge source="Raqqa" target="Syrian Observatory For Human Rights">
+      <data key="d0">1.2298850574712643</data>
+    </edge>
+    <edge source="Raqqa" target="Euphrates">
+      <data key="d0">0.19509164336750545</data>
+    </edge>
+    <edge source="Raqqa" target="Mansoura">
+      <data key="d0">0.19509164336750545</data>
+    </edge>
+    <edge source="Raqqa" target="Aamaq">
+      <data key="d0">1.117117117117117</data>
+    </edge>
+    <edge source="Raqqa" target="United Nations">
+      <data key="d0">1.8468468468468466</data>
+    </edge>
+    <edge source="Raqqa" target="Unhcr">
+      <data key="d0">0.45045045045045046</data>
+    </edge>
+    <edge source="Raqqa" target="Ocha">
+      <data key="d0">0.45045045045045046</data>
+    </edge>
+    <edge source="Raqqa" target="Spot Development">
+      <data key="d0">0.14414414414414414</data>
+    </edge>
+    <edge source="Raqqa" target="Stephen Townsend">
+      <data key="d0">0.14414414414414414</data>
+    </edge>
+    <edge source="Raqqa" target="Mosul">
+      <data key="d0">0.13513513513513514</data>
+    </edge>
+    <edge source="Us Backed" target="Mosul">
+      <data key="d0">1.0990990990990992</data>
+    </edge>
+    <edge source="Us Backed" target="Spot Development">
+      <data key="d0">0.10810810810810811</data>
+    </edge>
+    <edge source="Us Backed" target="Euphrates">
+      <data key="d0">0.09009009009009009</data>
+    </edge>
+    <edge source="Us Backed" target="United Nations">
+      <data key="d0">0.14414414414414414</data>
+    </edge>
+    <edge source="Us Backed" target="Stephen Townsend">
+      <data key="d0">0.10810810810810811</data>
+    </edge>
+    <edge source="Us Backed" target="SDF">
+      <data key="d0">0.12612612612612611</data>
+    </edge>
+    <edge source="Us Backed" target="Unhcr">
+      <data key="d0">0.08108108108108109</data>
+    </edge>
+    <edge source="Us Backed" target="Mansoura">
+      <data key="d0">0.09009009009009009</data>
+    </edge>
+    <edge source="Us Backed" target="Syrian Observatory For Human Rights">
+      <data key="d0">0.2972972972972973</data>
+    </edge>
+    <edge source="Us Backed" target="Aamaq">
+      <data key="d0">0.08108108108108109</data>
+    </edge>
+    <edge source="Us Backed" target="Ocha">
+      <data key="d0">0.08108108108108109</data>
+    </edge>
+    <edge source="Us Backed" target="Cihan Sheikh Ehmed">
+      <data key="d0">0.15315315315315314</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="SDF">
+      <data key="d0">0.8018018018018018</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="Spot Development">
+      <data key="d0">0.11711711711711711</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="Euphrates">
+      <data key="d0">0.0990990990990991</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="United Nations">
+      <data key="d0">0.15315315315315314</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="Stephen Townsend">
+      <data key="d0">0.11711711711711711</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="Mosul">
+      <data key="d0">0.10810810810810811</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="Unhcr">
+      <data key="d0">0.0900900900900901</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="Mansoura">
+      <data key="d0">0.0990990990990991</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="Syrian Observatory For Human Rights">
+      <data key="d0">0.3063063063063063</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="Aamaq">
+      <data key="d0">0.0900900900900901</data>
+    </edge>
+    <edge source="Cihan Sheikh Ehmed" target="Ocha">
+      <data key="d0">0.0900900900900901</data>
+    </edge>
+    <edge source="SDF" target="Syrian Observatory For Human Rights">
+      <data key="d0">1.1758310034172101</data>
+    </edge>
+    <edge source="SDF" target="Euphrates">
+      <data key="d0">0.1410375893134514</data>
+    </edge>
+    <edge source="SDF" target="Mansoura">
+      <data key="d0">0.1410375893134514</data>
+    </edge>
+    <edge source="SDF" target="Spot Development">
+      <data key="d0">0.09009009009009009</data>
+    </edge>
+    <edge source="SDF" target="United Nations">
+      <data key="d0">0.12612612612612611</data>
+    </edge>
+    <edge source="SDF" target="Stephen Townsend">
+      <data key="d0">0.09009009009009009</data>
+    </edge>
+    <edge source="SDF" target="Mosul">
+      <data key="d0">0.08108108108108109</data>
+    </edge>
+    <edge source="SDF" target="Unhcr">
+      <data key="d0">0.06306306306306307</data>
+    </edge>
+    <edge source="SDF" target="Aamaq">
+      <data key="d0">0.06306306306306307</data>
+    </edge>
+    <edge source="SDF" target="Ocha">
+      <data key="d0">0.06306306306306307</data>
+    </edge>
+    <edge source="Syrian Observatory For Human Rights" target="Euphrates">
+      <data key="d0">1.1397949673811743</data>
+    </edge>
+    <edge source="Syrian Observatory For Human Rights" target="Mansoura">
+      <data key="d0">1.1397949673811743</data>
+    </edge>
+    <edge source="Syrian Observatory For Human Rights" target="Spot Development">
+      <data key="d0">0.26126126126126126</data>
+    </edge>
+    <edge source="Syrian Observatory For Human Rights" target="United Nations">
+      <data key="d0">0.2972972972972973</data>
+    </edge>
+    <edge source="Syrian Observatory For Human Rights" target="Stephen Townsend">
+      <data key="d0">0.26126126126126126</data>
+    </edge>
+    <edge source="Syrian Observatory For Human Rights" target="Mosul">
+      <data key="d0">0.25225225225225223</data>
+    </edge>
+    <edge source="Syrian Observatory For Human Rights" target="Unhcr">
+      <data key="d0">0.23423423423423423</data>
+    </edge>
+    <edge source="Syrian Observatory For Human Rights" target="Aamaq">
+      <data key="d0">0.23423423423423423</data>
+    </edge>
+    <edge source="Syrian Observatory For Human Rights" target="Ocha">
+      <data key="d0">0.23423423423423423</data>
+    </edge>
+    <edge source="Euphrates" target="Mansoura">
+      <data key="d0">0.10500155327741534</data>
+    </edge>
+    <edge source="Euphrates" target="Spot Development">
+      <data key="d0">0.05405405405405406</data>
+    </edge>
+    <edge source="Euphrates" target="United Nations">
+      <data key="d0">0.09009009009009009</data>
+    </edge>
+    <edge source="Euphrates" target="Stephen Townsend">
+      <data key="d0">0.05405405405405406</data>
+    </edge>
+    <edge source="Euphrates" target="Mosul">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Euphrates" target="Unhcr">
+      <data key="d0">0.02702702702702703</data>
+    </edge>
+    <edge source="Euphrates" target="Aamaq">
+      <data key="d0">0.02702702702702703</data>
+    </edge>
+    <edge source="Euphrates" target="Ocha">
+      <data key="d0">0.02702702702702703</data>
+    </edge>
+    <edge source="Mansoura" target="Spot Development">
+      <data key="d0">0.05405405405405406</data>
+    </edge>
+    <edge source="Mansoura" target="United Nations">
+      <data key="d0">0.09009009009009009</data>
+    </edge>
+    <edge source="Mansoura" target="Stephen Townsend">
+      <data key="d0">0.05405405405405406</data>
+    </edge>
+    <edge source="Mansoura" target="Mosul">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Mansoura" target="Unhcr">
+      <data key="d0">0.02702702702702703</data>
+    </edge>
+    <edge source="Mansoura" target="Aamaq">
+      <data key="d0">0.02702702702702703</data>
+    </edge>
+    <edge source="Mansoura" target="Ocha">
+      <data key="d0">0.02702702702702703</data>
+    </edge>
+    <edge source="Mosul" target="Spot Development">
+      <data key="d0">0.06306306306306306</data>
+    </edge>
+    <edge source="Mosul" target="United Nations">
+      <data key="d0">0.0990990990990991</data>
+    </edge>
+    <edge source="Mosul" target="Stephen Townsend">
+      <data key="d0">0.06306306306306306</data>
+    </edge>
+    <edge source="Mosul" target="Unhcr">
+      <data key="d0">0.036036036036036036</data>
+    </edge>
+    <edge source="Mosul" target="Aamaq">
+      <data key="d0">0.036036036036036036</data>
+    </edge>
+    <edge source="Mosul" target="Ocha">
+      <data key="d0">0.036036036036036036</data>
+    </edge>
+    <edge source="Aamaq" target="Spot Development">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Aamaq" target="United Nations">
+      <data key="d0">0.08108108108108109</data>
+    </edge>
+    <edge source="Aamaq" target="Stephen Townsend">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Aamaq" target="Unhcr">
+      <data key="d0">0.018018018018018018</data>
+    </edge>
+    <edge source="Aamaq" target="Ocha">
+      <data key="d0">0.018018018018018018</data>
+    </edge>
+    <edge source="United Nations" target="Unhcr">
+      <data key="d0">0.9144144144144144</data>
+    </edge>
+    <edge source="United Nations" target="Ocha">
+      <data key="d0">0.9144144144144144</data>
+    </edge>
+    <edge source="United Nations" target="Spot Development">
+      <data key="d0">0.10810810810810811</data>
+    </edge>
+    <edge source="United Nations" target="Stephen Townsend">
+      <data key="d0">0.10810810810810811</data>
+    </edge>
+    <edge source="Unhcr" target="Spot Development">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Unhcr" target="Stephen Townsend">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Unhcr" target="Ocha">
+      <data key="d0">0.018018018018018018</data>
+    </edge>
+    <edge source="Stephen Townsend" target="Spot Development">
+      <data key="d0">0.07207207207207207</data>
+    </edge>
+    <edge source="Stephen Townsend" target="Ocha">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+    <edge source="Ocha" target="Spot Development">
+      <data key="d0">0.04504504504504504</data>
+    </edge>
+  </graph>
+</graphml>
